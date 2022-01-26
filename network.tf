@@ -17,3 +17,4 @@ module "network" {
   }
 
   depends_on = [azurerm_resource_group.xavileci]
+}
